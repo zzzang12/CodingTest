@@ -1,0 +1,1 @@
+print(sum([2 if '50' in str(i) else 1 for i in range(1,int(input()))])+1)
